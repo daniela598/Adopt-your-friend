@@ -1,0 +1,71 @@
+*{
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-image: url("https://www.wallpaperkiss.com/wimg/b/174-1749951_big.jpg");
+	background-size: cover ;
+	background-attachment: fixed;
+}
+
+.contenedor{
+
+	background-color: #646463;
+	width: 400px;
+	padding: 30px;
+	margin: auto;
+	margin-top: 80px;
+	border-radius: 10px;
+	color: white;
+	font-family: initial;
+	box-shadow: 7px 13px 37px #000;
+
+}
+
+.contenedor h1{
+ 
+   font-family: initial;
+   font-size: 22px;
+   margin-bottom: 20px;
+   text-align: center;
+}
+
+.box{
+	width: 100%;
+	background: #24303c;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid green;
+	font-size: 15px;
+	font-family: italic;
+	color: white;
+}
+
+p{
+	text-align: center;
+	font-size: 17px;
+	height: 28px;
+	line-height: 28px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #8029b3;
+}
+
+.boton{
+	width: 100%;
+	background: #8c8d90;
+	padding: 10px;
+	color: white;
+	font-size: 16px;
+	margin: 16px 0;
+}
